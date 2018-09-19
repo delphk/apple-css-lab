@@ -1,7 +1,5 @@
 # Recreate Apple landing page with CSS
 
-[See the solution to the assignment][solution].
-
 ### Instructions
 - Fork and clone repo
 - `cd` into directory
@@ -18,19 +16,19 @@
 - a
   - color: `#08c`
 - #content
+  - background: `white`
   - border: `#aaaaaa`
-- .banner h2
+- #banner
+  - height: `677px`
+- #banner h2
   - color: `#666`
 - .section
-  -background: `linear-gradient(rgb(243, 243, 243), white)`
-  -border-top: `rgb(223, 223, 223)`
+  - background: `linear-gradient(rgb(243, 243, 243), white)`
+  - border-top: `rgb(223, 223, 223)`
 - td
-  -color: `#666`
+  - color: `#666`
 - thead h1
-  -color: `#666`
-
-
-
+  - color: `#666`
 ![end state](./goal.png)
 
 ---
